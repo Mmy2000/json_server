@@ -1,0 +1,20 @@
+{
+    "customers": [
+        {
+            "id": 1,
+            "name": "mahmoud yousef"
+        },
+        {
+            "id": 2,
+            "name": "ali mohamed"
+        },
+        {
+            "id": 3,
+            "name": "yasser ibrahim"
+        },
+        {
+            "id": 4,
+            "name": "omar ragap"
+        }
+    ]
+}
